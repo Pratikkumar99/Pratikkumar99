@@ -1,5 +1,5 @@
 # 💫 About Me:
-**👋 Hi, I'm Pratik Kumar**<br><br>Motivated B.Tech IT student passionate about building modern, responsive, and scalable web applications. I have hands-on experience from my internship at Prodigy InfoTech and specialize in full-stack development using JavaScript, React.js, Next.js, Express.js, and MongoDB.[2][8]<br><br>💡 I love creating projects that make a real-world impact, like **Share-With-Care**—a food donation platform connecting restaurants, NGOs, and individuals to reduce food waste.[4][8]<br><br>**🛠️ Tech Stack:**  <br>Frontend: HTML, CSS, JavaScript, jQuery, React.js, Next.js, Tailwind CSS, Bootstrap  <br>Backend: Express.js, PHP, MongoDB, MySQL 
+**👋 Hi, I'm Pratik Kumar**<br><br>Motivated B.Tech IT student passionate about building modern, responsive, and scalable web applications. I have hands-on experience from my internship at Prodigy InfoTech and specialize in full-stack development using JavaScript, React.js, Next.js, Express.js, and MongoDB.<br><br>💡 I love creating projects that make a real-world impact, like **Share-With-Care**—a food donation platform connecting restaurants, NGOs, and individuals to reduce food waste.<br><br>**🛠️ Tech Stack:**  <br>Frontend: HTML, CSS, JavaScript, jQuery, React.js, Next.js, Tailwind CSS, Bootstrap  <br>Backend: Express.js, PHP, MongoDB, MySQL 
 
 
 ## 🌐 Socials:
